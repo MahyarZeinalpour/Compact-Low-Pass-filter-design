@@ -60,7 +60,7 @@ Nearly flat at ≈ 0.4 ns across the passband (0–2.4 GHz), confirming minimal 
 ---
 
 ## Repository Structure
-compact-lpf-2.4GHz/
+compact-LPF-2.4GHz/
 ├── HFSS/
 │   ├── Low_Pass_Filter_1.aedt
 │   └── Low_Pass_Filter_2.aedt
