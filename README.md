@@ -6,7 +6,7 @@ Simulated in Ansys HFSS 2024 R2 | Rogers RO4003 | L-Shaped Resonators
 
 ## Overview
 
-This repository presents the design and full-wave EM simulation of a compact microstrip low pass filter (LPF) targeting the 2.4 GHz ISM band. The filter is implemented on a Rogers RO4003 substrate and employs a combination of lower-L and upper-L shaped resonators to achieve a sharp roll-off, deep transmission null at the passband edge, and wideband stopband suppression up to 10 GHz.
+This repository presents the design and full wave EM simulation of a compact microstrip low pass filter (LPF) targeting the 2.4 GHz ISM band. The filter is implemented on a Rogers RO4003 substrate and employs a combination of lower-L and upper-L shaped resonators to achieve a sharp roll off, deep transmission null at the passband edge, and wideband stopband suppression up to 10 GHz.
 
 The design was developed and simulated using Ansys HFSS 2024 R2 (Driven Modal solution type) and has been fully validated through adaptive mesh convergence across three consecutive passes.
 
